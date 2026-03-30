@@ -2,7 +2,7 @@
 
 > *The ideal light controller for the ideal room*
 
-
+![Poster1#](https://github.com/user-attachments/assets/96b906e6-7fff-4d11-bdaa-a18a7807428b)
 
 
 ## 🌟 Features
