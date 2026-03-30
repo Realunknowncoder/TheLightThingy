@@ -17,7 +17,7 @@ So I made TheLightThingy to give some life to my room and so I can find an excus
 ## ⬇️ Components:
 
 For the components needed you can find them in the component file, the prices are in rand but the final one is in dollars!
-Note that for the WorldWide some links doesn't work but you can easily find it if you searched on AliExpress! Sorry for the inconvenient!
+Note that right now only the South African list is out! The WorldWide list will be out a bit later! Thank you for waiting :)
 
 ## ⬇️ PCB:
 
