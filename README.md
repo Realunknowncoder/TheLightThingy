@@ -25,6 +25,13 @@ This time, I wanted to challenge myself and built a PCB! You can find all the fi
 
 <img width="741" height="463" alt="Screenshot 2026-03-28 201938" src="https://github.com/user-attachments/assets/21c69226-57ed-43a2-aca8-77d96884d06d" />
 
+## ⬇️ Wiring:
+
+Don't want a PCB or want to create your own? No problem, here is the wiring for TheLightThingy:
+
+
+<img width="635" height="367" alt="Screenshot 2026-04-26 193107" src="https://github.com/user-attachments/assets/e80ca190-e349-4831-8ec3-17840a35097c" />
+
 
 ## ⬇️ Code:
 
