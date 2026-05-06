@@ -41,7 +41,16 @@ For this project to work, you need to use the Adafruit_NeoPixel library! You can
 
 Now in the 3D folder you will find the 3D model built for this project. Please note that the model might need some ajustement if you're using other parts then the one in the South African list so pleae fell free to edit it!
 
+Also, if you want to edit any of the materials here is the link:
+
+[The onshape link](https://cad.onshape.com/documents/4f9122d247750f2f8526ba84/w/78ea33f30bfc9103541f604b/e/c9d34f59ecd57e067f911def?renderMode=0&uiState=69fa5b077daa09ab6bf3a910)
+
+[The Tinkercad link](https://www.tinkercad.com/things/9pYBuKNF3CP-thelightthingy?sharecode=dJLrExGj1JdFvHQjg1KNJFQP5_-hqBGTrGpPi1nzjm4)
+
 <img width="1107" height="538" alt="Screenshot 2026-03-30 004242" src="https://github.com/user-attachments/assets/3e296abb-e214-4fe4-94e1-aac3b50c6294" />
 
 <img width="686" height="379" alt="Screenshot 2026-03-30 004350" src="https://github.com/user-attachments/assets/0a7b25cd-b572-4591-b51f-0d347985f9c9" />
+
+<img width="550" height="440" alt="Screenshot 2026-05-06 234715" src="https://github.com/user-attachments/assets/33d2913f-c692-4473-bb7f-308eae256915" />
+
 
